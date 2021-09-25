@@ -1,0 +1,32 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+.body {
+	display: flex;
+	flex-direction: row;
+	width: 100vw;
+	height: 100vh;
+}
+.map-container {
+	width: 75%;
+	position: relative;
+	top: 0;
+	bottom: 0;
+}
+#map {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	width: 100%;
+}
+.map-overlay {
+	width: 25%;
+	padding: 10px;
+}
+.route-info {
+	padding: 1rem;
+	border-radius: 1rem;
+	margin: 0.5rem;
+	box-shadow: 2px 2px 2px gray;
+}
