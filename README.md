@@ -1,4 +1,4 @@
-# Eyes Movement
+# Real Bus Tracker
 A real-time tracker of the routes vehicles in Boston.
 
 ![Bus Tracker PNG](./images/realbustracker.png)
